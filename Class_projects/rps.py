@@ -70,7 +70,7 @@ while notDone:
 				print("Player 1 wins")
 
 	# play again? 
-	cont= input("\nagain? ")
+	cont = input("\nagain? ")
 	if cont.lower() == 'n' or cont.lower() == 'no':
 		notDone = False
 		print("Nice game!")
