@@ -15,7 +15,7 @@
 #   ['My', 'name', 'is', 'Kelly']
 
 def reverse(list) :
-    list.reverse()
+    list[ :: -1]
     print(list)
 
 def removeSix(list) :
