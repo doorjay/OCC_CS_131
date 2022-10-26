@@ -1,3 +1,6 @@
 # My practice space
 
-print("Hello World!")
+string = "Hello World!"
+string = string.split("l", 1)
+
+print(string)
