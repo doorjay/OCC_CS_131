@@ -1,0 +1,3 @@
+Number of entries: 6                 
+Total column 1:    17.77                 
+Total column 2:    19.43
