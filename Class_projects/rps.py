@@ -62,7 +62,9 @@ while notDone:
 				print("It's a TIE")
 
 			# You lose!
-			elif (player02 == 'Rock' and player01 == 'Scissors') or (player02 == 'Paper' and player01 == 'Rock') or (player02 == 'Scissors' and player01 == 'Paper'):
+			elif (player02 == 'Rock' and player01 == 'Scissors') or (
+				  player02 == 'Paper' and player01 == 'Rock') or  \
+				  (player02 == 'Scissors' and player01 == 'Paper'):
 				print("Player 2 wins")
 
 			# You win!
