@@ -27,6 +27,7 @@ class Address:
    def printAddress(self):
       if self._apt != 0:
          print(self._apt, end = "-")
+         
       print(self._house, self._street)
       print(f"{self._city},", self._state, self._postal)
       print()
